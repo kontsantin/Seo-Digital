@@ -76,6 +76,7 @@ a {
   gap: 64px;
   position: relative;
   font-family: 'Lato', sans-serif;
+  overflow: hidden;
 }
 
 
